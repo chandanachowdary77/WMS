@@ -251,5 +251,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Privacy**: GDPR compliant
 
 ---
-
-**Built with ❤️ for the satellite imagery and GIS community**
